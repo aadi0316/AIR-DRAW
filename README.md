@@ -99,7 +99,7 @@ Press **`Q`** to quit.
 ```
 air-draw/
 │
-├── air_draw.py       # Main application script
+├── Air_Draw_ml.py       # Main application script
 └── README.md
 ```
 
