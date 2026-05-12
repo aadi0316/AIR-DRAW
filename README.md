@@ -149,7 +149,7 @@ You can tweak these constants near the top of `air_draw.py`:
 For questions or suggestions, feel free to contact:
 
 - **Name**: Aditya Rana
-- **Email**: 
+- **Email**: .
 - **LinkedIn**: [Aditya Rana](https://www.linkedin.com/in/aditya-rana-7490a7366/)
 
 Happy Drawing! 🎨 
